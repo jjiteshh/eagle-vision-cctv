@@ -1,0 +1,5 @@
+{
+    "telegram_alerts_enabled": false,
+    "telegram_api_key": "",
+    "chat_id": 1
+}

@@ -1,0 +1,4 @@
+panel==1.4.0a1
+opencv-python==4.9.0.80
+requests==2.31.0
+ultralytics==8.1.3
